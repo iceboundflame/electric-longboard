@@ -1,0 +1,6 @@
+.svn
+OldVersions
+lockfile.lck
+*.stl
+*.gcode
+.DS_Store
