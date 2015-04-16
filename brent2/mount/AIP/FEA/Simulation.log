@@ -1,0 +1,60 @@
+﻿Simulation Simulation:1 started: 11/17/2014, 7:55:13 PM
+Number of configurations: 1
+Default mesh: 3854 elements, 7449 nodes
+Simulation Simulation:1 finished: 11/17/2014, 7:55:16 PM
+Total time 0:00:03
+
+Simulation Simulation:1 started: 11/17/2014, 7:55:39 PM
+Number of configurations: 1
+Default mesh: 3854 elements, 7449 nodes
+Solution time 2.1s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 11/17/2014, 7:55:43 PM
+Total time 0:00:04
+
+Simulation Simulation:1 started: 11/17/2014, 7:57:23 PM
+Number of configurations: 1
+Default mesh: 3854 elements, 7449 nodes
+Solution time 1.1s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 11/17/2014, 7:57:25 PM
+Total time 0:00:02
+
+Simulation Simulation:1 started: 11/17/2014, 7:57:51 PM
+Number of configurations: 1
+Default mesh: 3854 elements, 7449 nodes
+Solution time 1.4s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 11/17/2014, 7:57:53 PM
+Total time 0:00:02
+
+Simulation Simulation:1 started: 11/17/2014, 7:59:13 PM
+Number of configurations: 1
+Default mesh: 3854 elements, 7449 nodes
+Solution time 1.3s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 11/17/2014, 7:59:15 PM
+Total time 0:00:02
+
+Simulation Simulation:1 started: 11/17/2014, 7:59:58 PM
+Number of configurations: 1
+Default mesh: 3854 elements, 7449 nodes
+Solution time 1.4s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 11/17/2014, 8:00:00 PM
+Total time 0:00:02
+
+Simulation Simulation:1 started: 11/17/2014, 8:01:39 PM
+Number of configurations: 1
+Default mesh: 4010 elements, 7674 nodes
+Solution time 2.1s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 11/17/2014, 8:01:46 PM
+Total time 0:00:07
+

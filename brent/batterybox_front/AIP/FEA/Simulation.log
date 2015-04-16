@@ -1,0 +1,63 @@
+﻿Simulation Simulation:1 started: 9/7/2014, 3:21:00 AM
+Number of configurations: 1
+Default mesh: 4508 elements, 7753 nodes
+Solution time 1.7s
+Convergence rate: 47.1%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 9/7/2014, 3:21:26 AM
+Total time 0:00:26
+
+Simulation Simulation:1 started: 9/7/2014, 3:22:01 AM
+Number of configurations: 1
+Default mesh: 4508 elements, 7753 nodes
+Solution time 1.7s
+Convergence rate: 47.1%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 9/7/2014, 3:22:03 AM
+Total time 0:00:02
+
+Simulation Simulation:1 started: 9/7/2014, 3:22:27 AM
+Number of configurations: 1
+Default mesh: 4508 elements, 7753 nodes
+Solution time 2.9s
+Convergence rate: 16.6%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 9/7/2014, 3:22:30 AM
+Total time 0:00:03
+
+Simulation Simulation:1 started: 9/7/2014, 3:23:13 AM
+Number of configurations: 1
+Default mesh: 4508 elements, 7753 nodes
+Solution time 1.6s
+Convergence rate: 3.33%
+Problem converged 
+Simulation Simulation:1 finished: 9/7/2014, 3:23:15 AM
+Total time 0:00:02
+
+Simulation Simulation:1 started: 9/7/2014, 9:15:24 AM
+Number of configurations: 1
+Default mesh: 5315 elements, 9406 nodes
+Solution time 3.2s
+Convergence rate: 33.1%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 9/7/2014, 9:15:34 AM
+Total time 0:00:10
+
+Simulation Simulation:1 started: 9/7/2014, 9:15:56 AM
+Number of configurations: 1
+Default mesh: 5315 elements, 9406 nodes
+Solution time 1.8s
+Convergence rate: 20.5%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 9/7/2014, 9:15:58 AM
+Total time 0:00:02
+
+Simulation Simulation:1 started: 9/7/2014, 9:16:18 AM
+Number of configurations: 1
+Default mesh: 5315 elements, 9406 nodes
+Solution time 2.4s
+Convergence rate: 20.5%
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 9/7/2014, 9:16:21 AM
+Total time 0:00:03
+
