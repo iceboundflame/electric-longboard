@@ -2,5 +2,6 @@
 OldVersions
 lockfile.lck
 *.stl
+*.x3g
 *.gcode
 .DS_Store
