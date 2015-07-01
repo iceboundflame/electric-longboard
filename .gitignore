@@ -5,3 +5,10 @@ lockfile.lck
 *.x3g
 *.gcode
 .DS_Store
+
+# Altium Designer
+History/
+._*.*
+Project\ Logs\ for\ */
+Project\ Outputs\ for\ */
+__Previews
