@@ -37,6 +37,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=PCB2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UIHFNJXR
+
+[Document2]
 DocumentPath=boardboard.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -53,7 +70,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CJCUNFXY
 
-[Document2]
+[Document3]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,7 +87,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIHFNJXR
 
-[Document3]
+[Document4]
 DocumentPath=Teensy.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -87,7 +104,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYXXBIYG
 
-[Document4]
+[Document5]
 DocumentPath=Teensy.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -104,7 +121,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YIVJCPHN
 
-[Document5]
+[Document6]
 DocumentPath=boardboard3.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -126,19 +143,19 @@ DocumentPath=Project Outputs for boardboard3\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for boardboard3\NC Drill\PCB1.DRR
+DocumentPath=Project Outputs for boardboard3\Move Component(s) Origin To Grid - PCB2.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for boardboard3\Gerber\PCB1.EXTREP
+DocumentPath=Project Outputs for boardboard3\NC Drill\PCB1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for boardboard3\PCB1.EXTREP
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for boardboard3\Gerber\PCB1.GD1
+DocumentPath=Project Outputs for boardboard3\PCB1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
@@ -174,6 +191,62 @@ DocumentPath=Project Outputs for boardboard3\PCB1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
+DocumentPath=Project Outputs for boardboard3\NC Drill\PCB2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB2.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB2.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for boardboard3\NC Drill\PCB2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for boardboard3\Gerber\PCB2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for boardboard3\NC Drill\PCB2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Teensy.cmp
 DItemRevisionGUID=
 
